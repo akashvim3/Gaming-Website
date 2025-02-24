@@ -1,0 +1,56 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/forms": [
+      "default",
+      {
+        "label": "off"
+      }
+    ],
+    "axe/name-role-value": [
+      "default",
+      {
+        "link-name": "off"
+      }
+    ],
+    "no-inline-styles": "off",
+    "axe/text-alternatives": [
+      "default",
+      {
+        "image-alt": "off"
+      }
+    ],
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "-webkit-text-decoration-skip",
+          "-webkit-overflow-scrolling",
+          "orphans",
+          "widows",
+          "-webkit-text-size-adjust: none"
+        ]
+      }
+    ],
+    "meta-viewport": "off",
+    "axe/language": [
+      "default",
+      {
+        "html-has-lang": "off"
+      }
+    ]
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_chr <= 129",
+    "not chrome <= 129",
+    "not edge <= 129",
+    "not firefox <= 131",
+    "not safari <= 18",
+    "not samsung <= 25",
+    "not ios_saf <= 18"
+  ]
+}

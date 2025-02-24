@@ -23,7 +23,7 @@ Welcome to the **Gaming Website** repository! This is a dynamic and interactive 
 
 ## 🎮 Live Demo
 
-Check out the live demo here: [Gaming Website Demo](https://your-demo-link.com)
+Check out the live demo here: [Gaming Website Demo](https://akashvim3.github.io/Gaming-Website/)
 
 ---
 
